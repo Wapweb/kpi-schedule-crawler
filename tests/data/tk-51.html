@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="uk">
+<head><meta charset="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="Stylesheet" type="text/css" href="../style.css" /><link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" /><title>
+
+</title></head>
+<body>
+<div class="container-fluid">
+    <form name="aspnetForm" method="post" action="ViewSchedule.aspx?g=fbd89daf-6792-496a-a8bd-8c956efb4839" id="aspnetForm">
+        <script type="text/javascript">//<![CDATA[
+        var theForm;
+        if (document.getElementById) { theForm = document.getElementById ('aspnetForm'); }
+        else { theForm = document.aspnetForm; }
+        //]]></script>
+
+        <div>
+
+
+
+            <input type="hidden" name="ctl00_ToolkitScriptManager_HiddenField" id="ctl00_ToolkitScriptManager_HiddenField" value="" /><input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEMDAwQAgAADgEMBQAMEAIAAA4BDAUDDBACAAAOAgwFBwwQAgwPAgEIQ3NzQ2xhc3MBD2J0biBidG4tcHJpbWFyeQEEXyFTQgUCAAAADAUNDBACAAAOAwwFAwwQAgwPAQEEVGV4dAEt0KDQvtC30LrQu9Cw0LQg0LfQsNC90Y/RgtGMINC00LvRjyDQotCaLTUxICAgAAAADAUFDBACAAAOAQwFAgwQAgAADgEMBQEMEAIMDwICAAABDGNsb3Nlc3RfcGFpcgICAAUCAAAADAUJDBACDAwADwEBBXN0eWxlAQxmbG9hdDpyaWdodDsMCRACEAUAARvQn9C10YDRiNC40Lkg0YHQtdC80LXRgdGC0YABATEJCBAFAAEb0JTRgNGD0LPQuNC5INGB0LXQvNC10YHRgtGAAQEyCAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB1+gELZmBX7K7ZqIou3ANAwcC4rA==" /><input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" /><input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+        </div>
+
+        <script type="text/javascript">//<![CDATA[
+        window._form = theForm;
+        window.__doPostBack = function (eventTarget, eventArgument) {
+            if(theForm.onsubmit && theForm.onsubmit() == false) return;
+            theForm.__EVENTTARGET.value = eventTarget;
+            theForm.__EVENTARGUMENT.value = eventArgument;
+            theForm.submit();
+        }
+        //]]></script>
+
+        <script src="/WebResource.axd?d=1xpikj2LxLP+dpAaxkSTz763hDU=_0QlKUvDWl8mmTDFe1HBNkr92UxE=_f&t=634995522730000000" type="text/javascript"></script>
+        <script type="text/javascript">//<![CDATA[
+        WebForm_Initialize(window);
+        //]]></script>
+
+        <script src="/ScriptResource.axd?d=Ei3LBiWUcUpp6PyGjryPEdkUTM4=_HtaZU3uQXgDUrwsvttzHUGQ3NuY=td_t&t=636079627450000000&n=t" type="text/javascript"></script>
+        <script type="text/javascript">//<![CDATA[
+        if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+        //]]></script>
+        <script src="/ScriptResource.axd?d=Ei3LBiWUcUpp6PyGjryPEdkUTM4=_k3ZmCfJdpz7dSKaVwnPA1bwnSMw=td_t&t=636079627450000000&n=t" type="text/javascript"></script>
+        <script src="/Scripts/jquery-2.1.1.min.js" type="text/javascript"></script>
+        <script src="/Scripts/App.js" type="text/javascript"></script>
+        <script src="/Scripts/bootstrap.min.js" type="text/javascript"></script>
+        <script src="/Scripts/Schedule.js" type="text/javascript"></script>
+
+        <script type="text/javascript">
+            //<![CDATA[
+            Sys.WebForms.PageRequestManager._initialize('ctl00$ToolkitScriptManager', document.getElementById('aspnetForm'));
+            Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+            //]]
+        </script>
+
+
+        <div id="header" align="center">
+            <img id="ctl00_Image1" src="../Img/logo.gif" align="middle" style="border-width:0px;" />
+            <h1>
+                Департамент навчальної роботи</h1>
+        </div>
+        <div id="nav" align="center" style="margin: 10px">
+        </div>
+        <div align="center" style="margin: 10px">
+            <a id="ctl00_lBtnSchedule" class="btn btn-primary" href="javascript:__doPostBack('ctl00$lBtnSchedule','')">Розклад занять</a>
+            <a id="ctl00_lBtnSession" class="btn btn-link" href="javascript:__doPostBack('ctl00$lBtnSession','')">Розклад сесії</a>
+            <a id="ctl00_lBtnLecturerSchedule" class="btn btn-link" href="javascript:__doPostBack('ctl00$lBtnLecturerSchedule','')">Розклад для викладачів</a>
+            </ul>
+        </div>
+        <div align="center" style="margin: 30px">
+
+
+            <div>
+                <h3>
+                    <span id="ctl00_MainContent_lblHeader">Розклад занять для ТК-51   </span>
+                </h3>
+                <h3>
+                    Перший тиждень</h3>
+                <table id="ctl00_MainContent_FirstScheduleTable" class="table table-bordered table-hover" cellpadding="10" rules="all" align="center" border="1">
+                    <tr>
+                        <td></td><td>Понеділок</td><td>Вівторок</td><td>Середа</td><td>Четвер</td><td>П'ятниця</td><td>Субота</td>
+                    </tr><tr>
+                    <td>1<br>08:30</td><td></td><td></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Спеціальні розділи вищої математики_(15203250)" title="Спеціальні розділи вищої математики">Спеціальні розділи вищої математики</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=c975a59d-01f3-4d77-b75e-3c6e9df5c046" title="старший викладач Веригіна Інга Вячеславівна">ст.вик. Веригіна І. В.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">318-05 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Тепломасообмін_(15201520)" title="Тепломасообмін">Тепломасообмін</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=191b8235-a472-411d-9fee-ad76613e87fe" title="доцент Лебедь Наталія Леонідівна">доц. Лебедь Н. Л.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">610-05 Прак</a></td><td></td><td></td>
+                </tr><tr>
+                    <td>2<br>10:25</td><td class="closest_pair"><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Метрологія і стандартизація_(15201530)" title="Метрологія і стандартизація">Метрологія і стандартизація</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=2c4b4ec6-5b10-4167-8876-7ea5a5ac2332" title="асистент Шелешей Тетяна Вікторівна">ас. Шелешей Т. В.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">204-05 Лаб</a></td><td></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Спеціальні розділи вищої математики_(15203250)" title="Спеціальні розділи вищої математики">Спеціальні розділи вищої математики</a></span><br/><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">318-05 Прак</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Тепломасообмін_(15201520)" title="Тепломасообмін">Тепломасообмін</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=af85c489-4495-41c7-bc5d-c10207573b5c" title="професор Туз Валерій Омелянович">проф. Туз В. О.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">307-05 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Технічна термодинаміка -2. Термодинамічні процеси та цикли_(15201510)" title="Технічна термодинаміка -2. Термодинамічні процеси та цикли">Технічна термодинаміка</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=133e5b29-d421-49d6-b94b-420f2f232114" title="доцент Фуртат Ірина Едуардівна">доц. Фуртат І. Е.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">307-05 Лек</a></td><td></td>
+                </tr><tr>
+                    <td>3<br>12:20</td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Тепломасообмін_(15201520)" title="Тепломасообмін">Тепломасообмін</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=d7033d60-1fad-4048-8464-0b74368088a3" title="асистент Воробйов М В">ас. Воробйов М. В.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">706-05 Лаб</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Іноземна мова - 2. Іноземна мова загальнотехнічного спрямування_(15202830)" title="Іноземна мова - 2. Іноземна мова загальнотехнічного спрямування">Іноземна мова</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=0dd64548-5b0b-4c00-a5ea-f8ab205443b4" title="викладач Подзігун Л В">вик. Подзігун Л. В.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">322-05 Прак</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Технічна термодинаміка -2. Термодинамічні процеси та цикли_(15201510)" title="Технічна термодинаміка -2. Термодинамічні процеси та цикли">Технічна термодинаміка</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=b47d0516-6d25-48f7-8bf7-8c8e435db0c3" title="асистент Дащенко Ольга Петрівна">ас. Дащенко О. П.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">512-05 Прак</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Стратегія охорони навколишнього середовища_(15201530)" title="Стратегія охорони навколишнього середовища">Стратегія охорони навколишнього середовища</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=2c4b4ec6-5b10-4167-8876-7ea5a5ac2332" title="асистент Шелешей Тетяна Вікторівна">ас. Шелешей Т. В.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">212-05 Прак</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Фізичне виховання_(15203560)" title="Фізичне виховання">Фізичне виховання</a></span><br/><br/></td><td></td>
+                </tr><tr>
+                    <td>4<br>14:15</td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Фізичне виховання_(15203560)" title="Фізичне виховання">Фізичне виховання</a></span><br/><br/></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Основи конструювання - 1._(15201210)" title="Основи конструювання - 1.">Основи конструювання</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=602d61d4-6bd6-435c-a5da-a458d8993947" title="доцент Тимошенко Олександр Вікторович">доц. Тимошенко О. В.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">104-05 Прак</a></td><td></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Основи конструювання - 1._(15201210)" title="Основи конструювання - 1.">Основи конструювання</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=ddb5c0e8-a13c-4311-a1e8-ad53ec155b0a" title="доцент Трубачев Сергій Іванович">доц. Трубачев С. І.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">307-05 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Стратегія охорони навколишнього середовища_(15201530)" title="Стратегія охорони навколишнього середовища">Стратегія охорони навколишнього середовища</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=1744d37a-3c67-42d2-84b6-93749162ab69" title="старший викладач Риндюк Д В">ст.вик. Риндюк Д. В.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">318-05 Лек</a></td><td></td>
+                </tr><tr>
+                    <td>5<br>16:10</td><td></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Тепломасообмін_(15201520)" title="Тепломасообмін">Тепломасообмін</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=af85c489-4495-41c7-bc5d-c10207573b5c" title="професор Туз Валерій Омелянович">проф. Туз В. О.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">307-05 Лек</a></td><td></td><td></td><td></td><td></td>
+                </tr>
+                </table>
+                <br />
+            </div>
+            <div>
+                <h3>
+                    Другий тиждень</h3>
+                <table id="ctl00_MainContent_SecondScheduleTable" class="table table-bordered table-hover" cellpadding="10" rules="all" align="center" border="1">
+                    <tr>
+                        <td></td><td>Понеділок</td><td>Вівторок</td><td>Середа</td><td>Четвер</td><td>П'ятниця</td><td>Субота</td>
+                    </tr><tr>
+                    <td>1<br>08:30</td><td></td><td></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Спеціальні розділи вищої математики_(15203250)" title="Спеціальні розділи вищої математики">Спеціальні розділи вищої математики</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=c975a59d-01f3-4d77-b75e-3c6e9df5c046" title="старший викладач Веригіна Інга Вячеславівна">ст.вик. Веригіна І. В.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">318-05 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Тепломасообмін_(15201520)" title="Тепломасообмін">Тепломасообмін</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=191b8235-a472-411d-9fee-ad76613e87fe" title="доцент Лебедь Наталія Леонідівна">доц. Лебедь Н. Л.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">610-05 Прак</a></td><td></td><td></td>
+                </tr><tr>
+                    <td>2<br>10:25</td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Метрологія і стандартизація_(15201530)" title="Метрологія і стандартизація">Метрологія і стандартизація</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=2c4b4ec6-5b10-4167-8876-7ea5a5ac2332" title="асистент Шелешей Тетяна Вікторівна">ас. Шелешей Т. В.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">204-05 Лаб</a></td><td></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Спеціальні розділи вищої математики_(15203250)" title="Спеціальні розділи вищої математики">Спеціальні розділи вищої математики</a></span><br/><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">318-05 Прак</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Тепломасообмін_(15201520)" title="Тепломасообмін">Тепломасообмін</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=af85c489-4495-41c7-bc5d-c10207573b5c" title="професор Туз Валерій Омелянович">проф. Туз В. О.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">307-05 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Технічна термодинаміка -2. Термодинамічні процеси та цикли_(15201510)" title="Технічна термодинаміка -2. Термодинамічні процеси та цикли">Технічна термодинаміка</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=133e5b29-d421-49d6-b94b-420f2f232114" title="доцент Фуртат Ірина Едуардівна">доц. Фуртат І. Е.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">307-05 Лек</a></td><td></td>
+                </tr><tr>
+                    <td>3<br>12:20</td><td></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Іноземна мова - 2. Іноземна мова загальнотехнічного спрямування_(15202830)" title="Іноземна мова - 2. Іноземна мова загальнотехнічного спрямування">Іноземна мова</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=0dd64548-5b0b-4c00-a5ea-f8ab205443b4" title="викладач Подзігун Л В">вик. Подзігун Л. В.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">322-05 Прак</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Технічна термодинаміка -2. Термодинамічні процеси та цикли_(15201510)" title="Технічна термодинаміка -2. Термодинамічні процеси та цикли">Технічна термодинаміка</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=b47d0516-6d25-48f7-8bf7-8c8e435db0c3" title="асистент Дащенко Ольга Петрівна">ас. Дащенко О. П.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">512-05 Прак</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Метрологія і стандартизація_(15201530)" title="Метрологія і стандартизація">Метрологія і стандартизація</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=e352b668-ce81-4dfe-92a1-46465528c725" title="асистент Сірий Олександр Анатолійович">ас. Сірий О. А.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">710-05 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Фізичне виховання_(15203560)" title="Фізичне виховання">Фізичне виховання</a></span><br/><br/></td><td></td>
+                </tr><tr>
+                    <td>4<br>14:15</td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Фізичне виховання_(15203560)" title="Фізичне виховання">Фізичне виховання</a></span><br/><br/></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Основи конструювання - 1._(15201210)" title="Основи конструювання - 1.">Основи конструювання</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=602d61d4-6bd6-435c-a5da-a458d8993947" title="доцент Тимошенко Олександр Вікторович">доц. Тимошенко О. В.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">104-05 Прак</a></td><td></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Основи конструювання - 1._(15201210)" title="Основи конструювання - 1.">Основи конструювання</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=ddb5c0e8-a13c-4311-a1e8-ad53ec155b0a" title="доцент Трубачев Сергій Іванович">доц. Трубачев С. І.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">307-05 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Тепломасообмін_(15201520)" title="Тепломасообмін">Тепломасообмін</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=af85c489-4495-41c7-bc5d-c10207573b5c" title="професор Туз Валерій Омелянович">проф. Туз В. О.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">307-05 Лек</a></td><td></td>
+                </tr><tr>
+                    <td>5<br>16:10</td><td></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Тепломасообмін_(15201520)" title="Тепломасообмін">Тепломасообмін</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=af85c489-4495-41c7-bc5d-c10207573b5c" title="професор Туз Валерій Омелянович">проф. Туз В. О.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.449142,30.4653065">307-05 Лек</a></td><td></td><td></td><td></td><td></td>
+                </tr>
+                </table>
+                <br />
+            </div>
+            <select name="ctl00$MainContent$ddlSemesterType" onchange="setTimeout('__doPostBack(\'ctl00$MainContent$ddlSemesterType\',\'\')', 0)" id="ctl00_MainContent_ddlSemesterType" style="float:right;">
+                <option value="1">Перший семестр</option>
+                <option selected="selected" value="2">Другий семестр</option>
+
+            </select>
+
+        </div>
+
+        <div>
+            <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAEAAAD/////AQAAAAAAAAAPAQAAAAYAAAAIsA3rWl3AM+6E94I5ke7WZqDu1maj7tZmCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANHrMjv+SgBPzHBtjjqRRz+JnJtO" />
+        </div>
+
+        <script type="text/javascript">//<![CDATA[
+        (function() {var fn = function() {$get("ctl00_ToolkitScriptManager_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.initialize();
+        //]]></script>
+    </form>
+</div>
+</body>
+</html>

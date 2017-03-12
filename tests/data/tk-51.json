@@ -1,0 +1,1013 @@
+[
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 1,
+        "lesson_name": "Спеціальні розділи вищої математики",
+        "lesson_full_name": "Спеціальні розділи вищої математики",
+        "lesson_room": "318-05",
+        "lesson_type": "Лек",
+        "teacher_name": "ст.вик. Веригіна І. В.",
+        "lesson_week": 1,
+        "time_start": "08:30",
+        "time_end": "10:05",
+        "rate": 1,
+        "lesson_room_type": "318-05 Лек",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Веригіна Інга Вячеславівна",
+                "teacher_full_name_lesson": "старший викладач Веригіна Інга Вячеславівна",
+                "teacher_short_name_lesson": "ст.вик. Веригіна І. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=c975a59d-01f3-4d77-b75e-3c6e9df5c046"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "318-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 1,
+        "lesson_name": "Тепломасообмін",
+        "lesson_full_name": "Тепломасообмін",
+        "lesson_room": "610-05",
+        "lesson_type": "Прак",
+        "teacher_name": "доц. Лебедь Н. Л.",
+        "lesson_week": 1,
+        "time_start": "08:30",
+        "time_end": "10:05",
+        "rate": 1,
+        "lesson_room_type": "610-05 Прак",
+        "teachers": [
+            {
+                "teacher_name": "доцент Лебедь Наталія Леонідівна",
+                "teacher_full_name_lesson": "доцент Лебедь Наталія Леонідівна",
+                "teacher_short_name_lesson": "доц. Лебедь Н. Л.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=191b8235-a472-411d-9fee-ad76613e87fe"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "610-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 2,
+        "lesson_name": "Метрологія і стандартизація",
+        "lesson_full_name": "Метрологія і стандартизація",
+        "lesson_room": "204-05",
+        "lesson_type": "Лаб",
+        "teacher_name": "ас. Шелешей Т. В.",
+        "lesson_week": 1,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "204-05 Лаб",
+        "teachers": [
+            {
+                "teacher_name": "асистент Шелешей Тетяна Вікторівна",
+                "teacher_full_name_lesson": "асистент Шелешей Тетяна Вікторівна",
+                "teacher_short_name_lesson": "ас. Шелешей Т. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=2c4b4ec6-5b10-4167-8876-7ea5a5ac2332"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "204-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лаб",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 2,
+        "lesson_name": "Спеціальні розділи вищої математики",
+        "lesson_full_name": "Спеціальні розділи вищої математики",
+        "lesson_room": "318-05",
+        "lesson_type": "Прак",
+        "teacher_name": "",
+        "lesson_week": 1,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "318-05 Прак",
+        "teachers": [],
+        "rooms": [
+            {
+                "room_name": "318-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 2,
+        "lesson_name": "Тепломасообмін",
+        "lesson_full_name": "Тепломасообмін",
+        "lesson_room": "307-05",
+        "lesson_type": "Лек",
+        "teacher_name": "проф. Туз В. О.",
+        "lesson_week": 1,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "307-05 Лек",
+        "teachers": [
+            {
+                "teacher_name": "професор Туз Валерій Омелянович",
+                "teacher_full_name_lesson": "професор Туз Валерій Омелянович",
+                "teacher_short_name_lesson": "проф. Туз В. О.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=af85c489-4495-41c7-bc5d-c10207573b5c"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "307-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 5,
+        "day_name": "П’ятниця",
+        "lesson_number": 2,
+        "lesson_name": "Технічна термодинаміка",
+        "lesson_full_name": "Технічна термодинаміка -2. Термодинамічні процеси та цикли",
+        "lesson_room": "307-05",
+        "lesson_type": "Лек",
+        "teacher_name": "доц. Фуртат І. Е.",
+        "lesson_week": 1,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "307-05 Лек",
+        "teachers": [
+            {
+                "teacher_name": "доцент Фуртат Ірина Едуардівна",
+                "teacher_full_name_lesson": "доцент Фуртат Ірина Едуардівна",
+                "teacher_short_name_lesson": "доц. Фуртат І. Е.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=133e5b29-d421-49d6-b94b-420f2f232114"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "307-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 3,
+        "lesson_name": "Тепломасообмін",
+        "lesson_full_name": "Тепломасообмін",
+        "lesson_room": "706-05",
+        "lesson_type": "Лаб",
+        "teacher_name": "ас. Воробйов М. В.",
+        "lesson_week": 1,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "706-05 Лаб",
+        "teachers": [
+            {
+                "teacher_name": "асистент Воробйов М В",
+                "teacher_full_name_lesson": "асистент Воробйов М В",
+                "teacher_short_name_lesson": "ас. Воробйов М. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=d7033d60-1fad-4048-8464-0b74368088a3"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "706-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лаб",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 3,
+        "lesson_name": "Іноземна мова",
+        "lesson_full_name": "Іноземна мова - 2. Іноземна мова загальнотехнічного спрямування",
+        "lesson_room": "322-05",
+        "lesson_type": "Прак",
+        "teacher_name": "вик. Подзігун Л. В.",
+        "lesson_week": 1,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "322-05 Прак",
+        "teachers": [
+            {
+                "teacher_name": "викладач Подзігун Л В",
+                "teacher_full_name_lesson": "викладач Подзігун Л В",
+                "teacher_short_name_lesson": "вик. Подзігун Л. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=0dd64548-5b0b-4c00-a5ea-f8ab205443b4"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "322-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 3,
+        "lesson_name": "Технічна термодинаміка",
+        "lesson_full_name": "Технічна термодинаміка -2. Термодинамічні процеси та цикли",
+        "lesson_room": "512-05",
+        "lesson_type": "Прак",
+        "teacher_name": "ас. Дащенко О. П.",
+        "lesson_week": 1,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "512-05 Прак",
+        "teachers": [
+            {
+                "teacher_name": "асистент Дащенко Ольга Петрівна",
+                "teacher_full_name_lesson": "асистент Дащенко Ольга Петрівна",
+                "teacher_short_name_lesson": "ас. Дащенко О. П.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=b47d0516-6d25-48f7-8bf7-8c8e435db0c3"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "512-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 3,
+        "lesson_name": "Стратегія охорони навколишнього середовища",
+        "lesson_full_name": "Стратегія охорони навколишнього середовища",
+        "lesson_room": "212-05",
+        "lesson_type": "Прак",
+        "teacher_name": "ас. Шелешей Т. В.",
+        "lesson_week": 1,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "212-05 Прак",
+        "teachers": [
+            {
+                "teacher_name": "асистент Шелешей Тетяна Вікторівна",
+                "teacher_full_name_lesson": "асистент Шелешей Тетяна Вікторівна",
+                "teacher_short_name_lesson": "ас. Шелешей Т. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=2c4b4ec6-5b10-4167-8876-7ea5a5ac2332"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "212-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 5,
+        "day_name": "П’ятниця",
+        "lesson_number": 3,
+        "lesson_name": "Фізичне виховання",
+        "lesson_full_name": "Фізичне виховання",
+        "lesson_room": null,
+        "lesson_type": null,
+        "teacher_name": "",
+        "lesson_week": 1,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": null,
+        "lesson_room_type": "",
+        "teachers": [],
+        "rooms": []
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 4,
+        "lesson_name": "Фізичне виховання",
+        "lesson_full_name": "Фізичне виховання",
+        "lesson_room": null,
+        "lesson_type": null,
+        "teacher_name": "",
+        "lesson_week": 1,
+        "time_start": "14:15",
+        "time_end": "15:50",
+        "rate": null,
+        "lesson_room_type": "",
+        "teachers": [],
+        "rooms": []
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 4,
+        "lesson_name": "Основи конструювання",
+        "lesson_full_name": "Основи конструювання - 1.",
+        "lesson_room": "104-05",
+        "lesson_type": "Прак",
+        "teacher_name": "доц. Тимошенко О. В.",
+        "lesson_week": 1,
+        "time_start": "14:15",
+        "time_end": "15:50",
+        "rate": 1,
+        "lesson_room_type": "104-05 Прак",
+        "teachers": [
+            {
+                "teacher_name": "доцент Тимошенко Олександр Вікторович",
+                "teacher_full_name_lesson": "доцент Тимошенко Олександр Вікторович",
+                "teacher_short_name_lesson": "доц. Тимошенко О. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=602d61d4-6bd6-435c-a5da-a458d8993947"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "104-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 4,
+        "lesson_name": "Основи конструювання",
+        "lesson_full_name": "Основи конструювання - 1.",
+        "lesson_room": "307-05",
+        "lesson_type": "Лек",
+        "teacher_name": "доц. Трубачев С. І.",
+        "lesson_week": 1,
+        "time_start": "14:15",
+        "time_end": "15:50",
+        "rate": 1,
+        "lesson_room_type": "307-05 Лек",
+        "teachers": [
+            {
+                "teacher_name": "доцент Трубачев Сергій Іванович",
+                "teacher_full_name_lesson": "доцент Трубачев Сергій Іванович",
+                "teacher_short_name_lesson": "доц. Трубачев С. І.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=ddb5c0e8-a13c-4311-a1e8-ad53ec155b0a"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "307-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 5,
+        "day_name": "П’ятниця",
+        "lesson_number": 4,
+        "lesson_name": "Стратегія охорони навколишнього середовища",
+        "lesson_full_name": "Стратегія охорони навколишнього середовища",
+        "lesson_room": "318-05",
+        "lesson_type": "Лек",
+        "teacher_name": "ст.вик. Риндюк Д. В.",
+        "lesson_week": 1,
+        "time_start": "14:15",
+        "time_end": "15:50",
+        "rate": 1,
+        "lesson_room_type": "318-05 Лек",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Риндюк Д В",
+                "teacher_full_name_lesson": "старший викладач Риндюк Д В",
+                "teacher_short_name_lesson": "ст.вик. Риндюк Д. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=1744d37a-3c67-42d2-84b6-93749162ab69"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "318-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 5,
+        "lesson_name": "Тепломасообмін",
+        "lesson_full_name": "Тепломасообмін",
+        "lesson_room": "307-05",
+        "lesson_type": "Лек",
+        "teacher_name": "проф. Туз В. О.",
+        "lesson_week": 1,
+        "time_start": "16:10",
+        "time_end": "17:45",
+        "rate": 1,
+        "lesson_room_type": "307-05 Лек",
+        "teachers": [
+            {
+                "teacher_name": "професор Туз Валерій Омелянович",
+                "teacher_full_name_lesson": "професор Туз Валерій Омелянович",
+                "teacher_short_name_lesson": "проф. Туз В. О.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=af85c489-4495-41c7-bc5d-c10207573b5c"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "307-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 1,
+        "lesson_name": "Спеціальні розділи вищої математики",
+        "lesson_full_name": "Спеціальні розділи вищої математики",
+        "lesson_room": "318-05",
+        "lesson_type": "Лек",
+        "teacher_name": "ст.вик. Веригіна І. В.",
+        "lesson_week": 2,
+        "time_start": "08:30",
+        "time_end": "10:05",
+        "rate": 1,
+        "lesson_room_type": "318-05 Лек",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Веригіна Інга Вячеславівна",
+                "teacher_full_name_lesson": "старший викладач Веригіна Інга Вячеславівна",
+                "teacher_short_name_lesson": "ст.вик. Веригіна І. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=c975a59d-01f3-4d77-b75e-3c6e9df5c046"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "318-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 1,
+        "lesson_name": "Тепломасообмін",
+        "lesson_full_name": "Тепломасообмін",
+        "lesson_room": "610-05",
+        "lesson_type": "Прак",
+        "teacher_name": "доц. Лебедь Н. Л.",
+        "lesson_week": 2,
+        "time_start": "08:30",
+        "time_end": "10:05",
+        "rate": 1,
+        "lesson_room_type": "610-05 Прак",
+        "teachers": [
+            {
+                "teacher_name": "доцент Лебедь Наталія Леонідівна",
+                "teacher_full_name_lesson": "доцент Лебедь Наталія Леонідівна",
+                "teacher_short_name_lesson": "доц. Лебедь Н. Л.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=191b8235-a472-411d-9fee-ad76613e87fe"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "610-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 2,
+        "lesson_name": "Метрологія і стандартизація",
+        "lesson_full_name": "Метрологія і стандартизація",
+        "lesson_room": "204-05",
+        "lesson_type": "Лаб",
+        "teacher_name": "ас. Шелешей Т. В.",
+        "lesson_week": 2,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "204-05 Лаб",
+        "teachers": [
+            {
+                "teacher_name": "асистент Шелешей Тетяна Вікторівна",
+                "teacher_full_name_lesson": "асистент Шелешей Тетяна Вікторівна",
+                "teacher_short_name_lesson": "ас. Шелешей Т. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=2c4b4ec6-5b10-4167-8876-7ea5a5ac2332"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "204-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лаб",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 2,
+        "lesson_name": "Спеціальні розділи вищої математики",
+        "lesson_full_name": "Спеціальні розділи вищої математики",
+        "lesson_room": "318-05",
+        "lesson_type": "Прак",
+        "teacher_name": "",
+        "lesson_week": 2,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "318-05 Прак",
+        "teachers": [],
+        "rooms": [
+            {
+                "room_name": "318-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 2,
+        "lesson_name": "Тепломасообмін",
+        "lesson_full_name": "Тепломасообмін",
+        "lesson_room": "307-05",
+        "lesson_type": "Лек",
+        "teacher_name": "проф. Туз В. О.",
+        "lesson_week": 2,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "307-05 Лек",
+        "teachers": [
+            {
+                "teacher_name": "професор Туз Валерій Омелянович",
+                "teacher_full_name_lesson": "професор Туз Валерій Омелянович",
+                "teacher_short_name_lesson": "проф. Туз В. О.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=af85c489-4495-41c7-bc5d-c10207573b5c"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "307-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 5,
+        "day_name": "П’ятниця",
+        "lesson_number": 2,
+        "lesson_name": "Технічна термодинаміка",
+        "lesson_full_name": "Технічна термодинаміка -2. Термодинамічні процеси та цикли",
+        "lesson_room": "307-05",
+        "lesson_type": "Лек",
+        "teacher_name": "доц. Фуртат І. Е.",
+        "lesson_week": 2,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "307-05 Лек",
+        "teachers": [
+            {
+                "teacher_name": "доцент Фуртат Ірина Едуардівна",
+                "teacher_full_name_lesson": "доцент Фуртат Ірина Едуардівна",
+                "teacher_short_name_lesson": "доц. Фуртат І. Е.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=133e5b29-d421-49d6-b94b-420f2f232114"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "307-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 3,
+        "lesson_name": "Іноземна мова",
+        "lesson_full_name": "Іноземна мова - 2. Іноземна мова загальнотехнічного спрямування",
+        "lesson_room": "322-05",
+        "lesson_type": "Прак",
+        "teacher_name": "вик. Подзігун Л. В.",
+        "lesson_week": 2,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "322-05 Прак",
+        "teachers": [
+            {
+                "teacher_name": "викладач Подзігун Л В",
+                "teacher_full_name_lesson": "викладач Подзігун Л В",
+                "teacher_short_name_lesson": "вик. Подзігун Л. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=0dd64548-5b0b-4c00-a5ea-f8ab205443b4"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "322-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 3,
+        "lesson_name": "Технічна термодинаміка",
+        "lesson_full_name": "Технічна термодинаміка -2. Термодинамічні процеси та цикли",
+        "lesson_room": "512-05",
+        "lesson_type": "Прак",
+        "teacher_name": "ас. Дащенко О. П.",
+        "lesson_week": 2,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "512-05 Прак",
+        "teachers": [
+            {
+                "teacher_name": "асистент Дащенко Ольга Петрівна",
+                "teacher_full_name_lesson": "асистент Дащенко Ольга Петрівна",
+                "teacher_short_name_lesson": "ас. Дащенко О. П.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=b47d0516-6d25-48f7-8bf7-8c8e435db0c3"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "512-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 3,
+        "lesson_name": "Метрологія і стандартизація",
+        "lesson_full_name": "Метрологія і стандартизація",
+        "lesson_room": "710-05",
+        "lesson_type": "Лек",
+        "teacher_name": "ас. Сірий О. А.",
+        "lesson_week": 2,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "710-05 Лек",
+        "teachers": [
+            {
+                "teacher_name": "асистент Сірий Олександр Анатолійович",
+                "teacher_full_name_lesson": "асистент Сірий Олександр Анатолійович",
+                "teacher_short_name_lesson": "ас. Сірий О. А.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=e352b668-ce81-4dfe-92a1-46465528c725"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "710-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 5,
+        "day_name": "П’ятниця",
+        "lesson_number": 3,
+        "lesson_name": "Фізичне виховання",
+        "lesson_full_name": "Фізичне виховання",
+        "lesson_room": null,
+        "lesson_type": null,
+        "teacher_name": "",
+        "lesson_week": 2,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": null,
+        "lesson_room_type": "",
+        "teachers": [],
+        "rooms": []
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 4,
+        "lesson_name": "Фізичне виховання",
+        "lesson_full_name": "Фізичне виховання",
+        "lesson_room": null,
+        "lesson_type": null,
+        "teacher_name": "",
+        "lesson_week": 2,
+        "time_start": "14:15",
+        "time_end": "15:50",
+        "rate": null,
+        "lesson_room_type": "",
+        "teachers": [],
+        "rooms": []
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 4,
+        "lesson_name": "Основи конструювання",
+        "lesson_full_name": "Основи конструювання - 1.",
+        "lesson_room": "104-05",
+        "lesson_type": "Прак",
+        "teacher_name": "доц. Тимошенко О. В.",
+        "lesson_week": 2,
+        "time_start": "14:15",
+        "time_end": "15:50",
+        "rate": 1,
+        "lesson_room_type": "104-05 Прак",
+        "teachers": [
+            {
+                "teacher_name": "доцент Тимошенко Олександр Вікторович",
+                "teacher_full_name_lesson": "доцент Тимошенко Олександр Вікторович",
+                "teacher_short_name_lesson": "доц. Тимошенко О. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=602d61d4-6bd6-435c-a5da-a458d8993947"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "104-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 4,
+        "lesson_name": "Основи конструювання",
+        "lesson_full_name": "Основи конструювання - 1.",
+        "lesson_room": "307-05",
+        "lesson_type": "Лек",
+        "teacher_name": "доц. Трубачев С. І.",
+        "lesson_week": 2,
+        "time_start": "14:15",
+        "time_end": "15:50",
+        "rate": 1,
+        "lesson_room_type": "307-05 Лек",
+        "teachers": [
+            {
+                "teacher_name": "доцент Трубачев Сергій Іванович",
+                "teacher_full_name_lesson": "доцент Трубачев Сергій Іванович",
+                "teacher_short_name_lesson": "доц. Трубачев С. І.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=ddb5c0e8-a13c-4311-a1e8-ad53ec155b0a"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "307-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 5,
+        "day_name": "П’ятниця",
+        "lesson_number": 4,
+        "lesson_name": "Тепломасообмін",
+        "lesson_full_name": "Тепломасообмін",
+        "lesson_room": "307-05",
+        "lesson_type": "Лек",
+        "teacher_name": "проф. Туз В. О.",
+        "lesson_week": 2,
+        "time_start": "14:15",
+        "time_end": "15:50",
+        "rate": 1,
+        "lesson_room_type": "307-05 Лек",
+        "teachers": [
+            {
+                "teacher_name": "професор Туз Валерій Омелянович",
+                "teacher_full_name_lesson": "професор Туз Валерій Омелянович",
+                "teacher_short_name_lesson": "проф. Туз В. О.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=af85c489-4495-41c7-bc5d-c10207573b5c"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "307-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 5,
+        "lesson_name": "Тепломасообмін",
+        "lesson_full_name": "Тепломасообмін",
+        "lesson_room": "307-05",
+        "lesson_type": "Лек",
+        "teacher_name": "проф. Туз В. О.",
+        "lesson_week": 2,
+        "time_start": "16:10",
+        "time_end": "17:45",
+        "rate": 1,
+        "lesson_room_type": "307-05 Лек",
+        "teachers": [
+            {
+                "teacher_name": "професор Туз Валерій Омелянович",
+                "teacher_full_name_lesson": "професор Туз Валерій Омелянович",
+                "teacher_short_name_lesson": "проф. Туз В. О.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=af85c489-4495-41c7-bc5d-c10207573b5c"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "307-05",
+                "room_latitude": "50.449142",
+                "room_longitude": "30.4653065",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    }
+]

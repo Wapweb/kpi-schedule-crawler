@@ -1,0 +1,23 @@
+{
+  "name": "wapweb/kpi-schedule-crawler",
+  "description": "crawler of rozklad.kpi.ua",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alexander",
+      "email": "abit-poisk@yandex.ua"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Wapweb\\KpiScheduleCrawler\\" : "src/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "6.2.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.0"
+  }
+}

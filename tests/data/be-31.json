@@ -1,0 +1,751 @@
+[
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 1,
+        "lesson_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_full_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_room": "260-04",
+        "lesson_type": "Прак",
+        "teacher_name": "ст.вик. Шибецький В. Ю.",
+        "lesson_week": 1,
+        "time_start": "08:30",
+        "time_end": "10:05",
+        "rate": 1,
+        "lesson_room_type": "260-04 Прак",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Шибецький Владислав Юрійович",
+                "teacher_full_name_lesson": "старший викладач Шибецький Владислав Юрійович",
+                "teacher_short_name_lesson": "ст.вик. Шибецький В. Ю.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=645d5195-8295-4cf9-9cfe-c5e77cf3b7e9"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "260-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 1,
+        "lesson_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_full_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_room": "168-04",
+        "lesson_type": "Прак",
+        "teacher_name": "ст.вик. Шибецький В. Ю.",
+        "lesson_week": 1,
+        "time_start": "08:30",
+        "time_end": "10:05",
+        "rate": 1,
+        "lesson_room_type": "168-04 Прак",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Шибецький Владислав Юрійович",
+                "teacher_full_name_lesson": "старший викладач Шибецький Владислав Юрійович",
+                "teacher_short_name_lesson": "ст.вик. Шибецький В. Ю.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=645d5195-8295-4cf9-9cfe-c5e77cf3b7e9"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "168-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 1,
+        "lesson_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_full_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_room": "4-04",
+        "lesson_type": "Лек",
+        "teacher_name": "ст.вик. Козар М. Ю.",
+        "lesson_week": 1,
+        "time_start": "08:30",
+        "time_end": "10:05",
+        "rate": 1,
+        "lesson_room_type": "182\/4-04 Лек",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Козар Марина Юріївна",
+                "teacher_full_name_lesson": "старший викладач Козар Марина Юріївна",
+                "teacher_short_name_lesson": "ст.вик. Козар М. Ю.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "182\/4-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 1,
+        "lesson_name": "Біотехнологія рослин.",
+        "lesson_full_name": "Біотехнологія рослин.",
+        "lesson_room": null,
+        "lesson_type": "Лек",
+        "teacher_name": "доц. Моргун Б. В.",
+        "lesson_week": 1,
+        "time_start": "08:30",
+        "time_end": "10:05",
+        "rate": null,
+        "lesson_room_type": "Лек",
+        "teachers": [
+            {
+                "teacher_name": "доцент Моргун Богдан Володимирович",
+                "teacher_full_name_lesson": "доцент Моргун Богдан Володимирович",
+                "teacher_short_name_lesson": "доц. Моргун Б. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=27080e46-e9d7-4986-a26d-ac9e6fd66739"
+            }
+        ],
+        "rooms": []
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 2,
+        "lesson_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_full_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_room": "254-04",
+        "lesson_type": "Лек",
+        "teacher_name": "проф. Ружинська Л. І.",
+        "lesson_week": 1,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "254-04 Лек",
+        "teachers": [
+            {
+                "teacher_name": "професор Ружинська Людмила Іванівна",
+                "teacher_full_name_lesson": "професор Ружинська Людмила Іванівна",
+                "teacher_short_name_lesson": "проф. Ружинська Л. І.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=ae68aedf-d133-478c-a6b4-4c316e5d294f"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "254-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 2,
+        "lesson_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_full_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_room": "260-04",
+        "lesson_type": "Лек",
+        "teacher_name": "проф. Ружинська Л. І.",
+        "lesson_week": 1,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "260-04 Лек",
+        "teachers": [
+            {
+                "teacher_name": "професор Ружинська Людмила Іванівна",
+                "teacher_full_name_lesson": "професор Ружинська Людмила Іванівна",
+                "teacher_short_name_lesson": "проф. Ружинська Л. І.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=ae68aedf-d133-478c-a6b4-4c316e5d294f"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "260-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 2,
+        "lesson_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_full_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_room": "4-04",
+        "lesson_type": "Лаб",
+        "teacher_name": "ст.вик. Козар М. Ю.",
+        "lesson_week": 1,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "182\/4-04 Лаб",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Козар Марина Юріївна",
+                "teacher_full_name_lesson": "старший викладач Козар Марина Юріївна",
+                "teacher_short_name_lesson": "ст.вик. Козар М. Ю.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "182\/4-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Лаб",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 2,
+        "lesson_name": "Біотехнологія рослин.",
+        "lesson_full_name": "Біотехнологія рослин.",
+        "lesson_room": null,
+        "lesson_type": "Лаб",
+        "teacher_name": "доц. Моргун Б. В.",
+        "lesson_week": 1,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": null,
+        "lesson_room_type": "Лаб",
+        "teachers": [
+            {
+                "teacher_name": "доцент Моргун Богдан Володимирович",
+                "teacher_full_name_lesson": "доцент Моргун Богдан Володимирович",
+                "teacher_short_name_lesson": "доц. Моргун Б. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=27080e46-e9d7-4986-a26d-ac9e6fd66739"
+            }
+        ],
+        "rooms": []
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 3,
+        "lesson_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_full_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_room": "4-04",
+        "lesson_type": "Лек",
+        "teacher_name": "ст.вик. Козар М. Ю.",
+        "lesson_week": 1,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "182\/4-04 Лек",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Козар Марина Юріївна",
+                "teacher_full_name_lesson": "старший викладач Козар Марина Юріївна",
+                "teacher_short_name_lesson": "ст.вик. Козар М. Ю.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "182\/4-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 3,
+        "lesson_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_full_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_room": "260-04",
+        "lesson_type": "Прак",
+        "teacher_name": "ст.вик. Козар М. Ю.",
+        "lesson_week": 1,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "260-04 Прак",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Козар Марина Юріївна",
+                "teacher_full_name_lesson": "старший викладач Козар Марина Юріївна",
+                "teacher_short_name_lesson": "ст.вик. Козар М. Ю.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "260-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 3,
+        "lesson_name": "Біотехнологія рослин.",
+        "lesson_full_name": "Біотехнологія рослин.",
+        "lesson_room": null,
+        "lesson_type": "Прак",
+        "teacher_name": "доц. Моргун Б. В.",
+        "lesson_week": 1,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": null,
+        "lesson_room_type": "Прак",
+        "teachers": [
+            {
+                "teacher_name": "доцент Моргун Богдан Володимирович",
+                "teacher_full_name_lesson": "доцент Моргун Богдан Володимирович",
+                "teacher_short_name_lesson": "доц. Моргун Б. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=27080e46-e9d7-4986-a26d-ac9e6fd66739"
+            }
+        ],
+        "rooms": []
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 1,
+        "lesson_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_full_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_room": "260-04",
+        "lesson_type": "Прак",
+        "teacher_name": "ст.вик. Шибецький В. Ю.",
+        "lesson_week": 2,
+        "time_start": "08:30",
+        "time_end": "10:05",
+        "rate": 1,
+        "lesson_room_type": "260-04 Прак",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Шибецький Владислав Юрійович",
+                "teacher_full_name_lesson": "старший викладач Шибецький Владислав Юрійович",
+                "teacher_short_name_lesson": "ст.вик. Шибецький В. Ю.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=645d5195-8295-4cf9-9cfe-c5e77cf3b7e9"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "260-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 1,
+        "lesson_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_full_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_room": "168-04",
+        "lesson_type": "Прак",
+        "teacher_name": "ст.вик. Шибецький В. Ю.",
+        "lesson_week": 2,
+        "time_start": "08:30",
+        "time_end": "10:05",
+        "rate": 1,
+        "lesson_room_type": "168-04 Прак",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Шибецький Владислав Юрійович",
+                "teacher_full_name_lesson": "старший викладач Шибецький Владислав Юрійович",
+                "teacher_short_name_lesson": "ст.вик. Шибецький В. Ю.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=645d5195-8295-4cf9-9cfe-c5e77cf3b7e9"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "168-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 1,
+        "lesson_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_full_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_room": "4-04",
+        "lesson_type": "Лек",
+        "teacher_name": "ст.вик. Козар М. Ю.",
+        "lesson_week": 2,
+        "time_start": "08:30",
+        "time_end": "10:05",
+        "rate": 1,
+        "lesson_room_type": "182\/4-04 Лек",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Козар Марина Юріївна",
+                "teacher_full_name_lesson": "старший викладач Козар Марина Юріївна",
+                "teacher_short_name_lesson": "ст.вик. Козар М. Ю.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "182\/4-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 1,
+        "lesson_name": "Біотехнологія рослин.",
+        "lesson_full_name": "Біотехнологія рослин.",
+        "lesson_room": null,
+        "lesson_type": "Лек",
+        "teacher_name": "доц. Моргун Б. В.",
+        "lesson_week": 2,
+        "time_start": "08:30",
+        "time_end": "10:05",
+        "rate": null,
+        "lesson_room_type": "Лек",
+        "teachers": [
+            {
+                "teacher_name": "доцент Моргун Богдан Володимирович",
+                "teacher_full_name_lesson": "доцент Моргун Богдан Володимирович",
+                "teacher_short_name_lesson": "доц. Моргун Б. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=27080e46-e9d7-4986-a26d-ac9e6fd66739"
+            }
+        ],
+        "rooms": []
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 2,
+        "lesson_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_full_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_room": "254-04",
+        "lesson_type": "Лек",
+        "teacher_name": "проф. Ружинська Л. І.",
+        "lesson_week": 2,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "254-04 Лек",
+        "teachers": [
+            {
+                "teacher_name": "професор Ружинська Людмила Іванівна",
+                "teacher_full_name_lesson": "професор Ружинська Людмила Іванівна",
+                "teacher_short_name_lesson": "проф. Ружинська Л. І.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=ae68aedf-d133-478c-a6b4-4c316e5d294f"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "254-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 2,
+        "lesson_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_full_name": "Проектування біотехнологічних виробництв-2. Основи проектування",
+        "lesson_room": "260-04",
+        "lesson_type": "Лек",
+        "teacher_name": "проф. Ружинська Л. І.",
+        "lesson_week": 2,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "260-04 Лек",
+        "teachers": [
+            {
+                "teacher_name": "професор Ружинська Людмила Іванівна",
+                "teacher_full_name_lesson": "професор Ружинська Людмила Іванівна",
+                "teacher_short_name_lesson": "проф. Ружинська Л. І.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=ae68aedf-d133-478c-a6b4-4c316e5d294f"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "260-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 2,
+        "lesson_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_full_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_room": "4-04",
+        "lesson_type": "Лаб",
+        "teacher_name": "ст.вик. Козар М. Ю.",
+        "lesson_week": 2,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "182\/4-04 Лаб",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Козар Марина Юріївна",
+                "teacher_full_name_lesson": "старший викладач Козар Марина Юріївна",
+                "teacher_short_name_lesson": "ст.вик. Козар М. Ю.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "182\/4-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Лаб",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 2,
+        "lesson_name": "Біотехнологія рослин.",
+        "lesson_full_name": "Біотехнологія рослин.",
+        "lesson_room": null,
+        "lesson_type": "Лаб",
+        "teacher_name": "доц. Моргун Б. В.",
+        "lesson_week": 2,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": null,
+        "lesson_room_type": "Лаб",
+        "teachers": [
+            {
+                "teacher_name": "доцент Моргун Богдан Володимирович",
+                "teacher_full_name_lesson": "доцент Моргун Богдан Володимирович",
+                "teacher_short_name_lesson": "доц. Моргун Б. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=27080e46-e9d7-4986-a26d-ac9e6fd66739"
+            }
+        ],
+        "rooms": []
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 3,
+        "lesson_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_full_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_room": "4-04",
+        "lesson_type": "Лек",
+        "teacher_name": "ст.вик. Козар М. Ю.",
+        "lesson_week": 2,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "182\/4-04 Лек",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Козар Марина Юріївна",
+                "teacher_full_name_lesson": "старший викладач Козар Марина Юріївна",
+                "teacher_short_name_lesson": "ст.вик. Козар М. Ю.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "182\/4-04",
+                "room_latitude": "50.450681",
+                "room_longitude": "30.455048",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 3,
+        "lesson_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_full_name": "Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.",
+        "lesson_room": "513-19",
+        "lesson_type": "Прак",
+        "teacher_name": "ст.вик. Козар М. Ю.",
+        "lesson_week": 2,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "513-19 Прак",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Козар Марина Юріївна",
+                "teacher_full_name_lesson": "старший викладач Козар Марина Юріївна",
+                "teacher_short_name_lesson": "ст.вик. Козар М. Ю.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "513-19",
+                "room_latitude": "50.4480855",
+                "room_longitude": "30.4585595",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 3,
+        "lesson_name": "Біотехнологія рослин.",
+        "lesson_full_name": "Біотехнологія рослин.",
+        "lesson_room": null,
+        "lesson_type": "Прак",
+        "teacher_name": "доц. Моргун Б. В.",
+        "lesson_week": 2,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": null,
+        "lesson_room_type": "Прак",
+        "teachers": [
+            {
+                "teacher_name": "доцент Моргун Богдан Володимирович",
+                "teacher_full_name_lesson": "доцент Моргун Богдан Володимирович",
+                "teacher_short_name_lesson": "доц. Моргун Б. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=27080e46-e9d7-4986-a26d-ac9e6fd66739"
+            }
+        ],
+        "rooms": []
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 4,
+        "lesson_name": "Біотехнологія рослин.",
+        "lesson_full_name": "Біотехнологія рослин.",
+        "lesson_room": null,
+        "lesson_type": "Прак",
+        "teacher_name": "доц. Моргун Б. В.",
+        "lesson_week": 2,
+        "time_start": "14:15",
+        "time_end": "15:50",
+        "rate": null,
+        "lesson_room_type": "Прак",
+        "teachers": [
+            {
+                "teacher_name": "доцент Моргун Богдан Володимирович",
+                "teacher_full_name_lesson": "доцент Моргун Богдан Володимирович",
+                "teacher_short_name_lesson": "доц. Моргун Б. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=27080e46-e9d7-4986-a26d-ac9e6fd66739"
+            }
+        ],
+        "rooms": []
+    }
+]

@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="uk">
+<head><meta charset="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="Stylesheet" type="text/css" href="../style.css" /><link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" /><title>
+
+</title></head>
+<body>
+<div class="container-fluid">
+    <form name="aspnetForm" method="post" action="ViewSchedule.aspx?g=ca53a3da-410e-48ca-9954-98b11751f8cc" id="aspnetForm">
+        <script type="text/javascript">//<![CDATA[
+        var theForm;
+        if (document.getElementById) { theForm = document.getElementById ('aspnetForm'); }
+        else { theForm = document.aspnetForm; }
+        //]]></script>
+
+        <div>
+
+
+
+            <input type="hidden" name="ctl00_ToolkitScriptManager_HiddenField" id="ctl00_ToolkitScriptManager_HiddenField" value="" /><input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEMDAwQAgAADgEMBQAMEAIAAA4BDAUDDBACAAAOAgwFBwwQAgwPAgEIQ3NzQ2xhc3MBD2J0biBidG4tcHJpbWFyeQEEXyFTQgUCAAAADAUNDBACAAAOAwwFAwwQAgwPAQEEVGV4dAEt0KDQvtC30LrQu9Cw0LQg0LfQsNC90Y/RgtGMINC00LvRjyDQkdCVLTMxICAgAAAADAUFDBACAAAOAQwFAQwQAgAADgEMBQEMEAIMDwICAAABDGNsb3Nlc3RfcGFpcgICAAUCAAAADAUJDBACDAwADwEBBXN0eWxlAQxmbG9hdDpyaWdodDsMCRACEAUAARvQn9C10YDRiNC40Lkg0YHQtdC80LXRgdGC0YABATEJCBAFAAEb0JTRgNGD0LPQuNC5INGB0LXQvNC10YHRgtGAAQEyCAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+v/FKCY3JTD39RBU47KWeZ4vZWw==" /><input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" /><input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+        </div>
+
+        <script type="text/javascript">//<![CDATA[
+        window._form = theForm;
+        window.__doPostBack = function (eventTarget, eventArgument) {
+            if(theForm.onsubmit && theForm.onsubmit() == false) return;
+            theForm.__EVENTTARGET.value = eventTarget;
+            theForm.__EVENTARGUMENT.value = eventArgument;
+            theForm.submit();
+        }
+        //]]></script>
+
+        <script src="/WebResource.axd?d=1xpikj2LxLP+dpAaxkSTz763hDU=_0QlKUvDWl8mmTDFe1HBNkr92UxE=_f&t=634995522730000000" type="text/javascript"></script>
+        <script type="text/javascript">//<![CDATA[
+        WebForm_Initialize(window);
+        //]]></script>
+
+        <script src="/ScriptResource.axd?d=Ei3LBiWUcUpp6PyGjryPEdkUTM4=_HtaZU3uQXgDUrwsvttzHUGQ3NuY=td_t&t=636079627450000000&n=t" type="text/javascript"></script>
+        <script type="text/javascript">//<![CDATA[
+        if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+        //]]></script>
+        <script src="/ScriptResource.axd?d=Ei3LBiWUcUpp6PyGjryPEdkUTM4=_k3ZmCfJdpz7dSKaVwnPA1bwnSMw=td_t&t=636079627450000000&n=t" type="text/javascript"></script>
+        <script src="/Scripts/jquery-2.1.1.min.js" type="text/javascript"></script>
+        <script src="/Scripts/App.js" type="text/javascript"></script>
+        <script src="/Scripts/bootstrap.min.js" type="text/javascript"></script>
+        <script src="/Scripts/Schedule.js" type="text/javascript"></script>
+
+        <script type="text/javascript">
+            //<![CDATA[
+            Sys.WebForms.PageRequestManager._initialize('ctl00$ToolkitScriptManager', document.getElementById('aspnetForm'));
+            Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+            //]]
+        </script>
+
+
+        <div id="header" align="center">
+            <img id="ctl00_Image1" src="../Img/logo.gif" align="middle" style="border-width:0px;" />
+            <h1>
+                Департамент навчальної роботи</h1>
+        </div>
+        <div id="nav" align="center" style="margin: 10px">
+        </div>
+        <div align="center" style="margin: 10px">
+            <a id="ctl00_lBtnSchedule" class="btn btn-primary" href="javascript:__doPostBack('ctl00$lBtnSchedule','')">Розклад занять</a>
+            <a id="ctl00_lBtnSession" class="btn btn-link" href="javascript:__doPostBack('ctl00$lBtnSession','')">Розклад сесії</a>
+            <a id="ctl00_lBtnLecturerSchedule" class="btn btn-link" href="javascript:__doPostBack('ctl00$lBtnLecturerSchedule','')">Розклад для викладачів</a>
+            </ul>
+        </div>
+        <div align="center" style="margin: 30px">
+
+
+            <div>
+                <h3>
+                    <span id="ctl00_MainContent_lblHeader">Розклад занять для БЕ-31   </span>
+                </h3>
+                <h3>
+                    Перший тиждень</h3>
+                <table id="ctl00_MainContent_FirstScheduleTable" class="table table-bordered table-hover" cellpadding="10" rules="all" align="center" border="1">
+                    <tr>
+                        <td></td><td>Понеділок</td><td>Вівторок</td><td>Середа</td><td>Четвер</td><td>П'ятниця</td><td>Субота</td>
+                    </tr><tr>
+                    <td>1<br>08:30</td><td class="closest_pair"><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Проектування біотехнологічних виробництв-2. Основи проектування_(29302920)" title="Проектування біотехнологічних виробництв-2. Основи проектування">Проектування біотехнологічних виробництв-2. Основи проектування</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=645d5195-8295-4cf9-9cfe-c5e77cf3b7e9" title="старший викладач Шибецький Владислав Юрійович">ст.вик. Шибецький В. Ю.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">260-04 Прак</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Проектування біотехнологічних виробництв-2. Основи проектування_(29302920)" title="Проектування біотехнологічних виробництв-2. Основи проектування">Проектування біотехнологічних виробництв-2. Основи проектування</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=645d5195-8295-4cf9-9cfe-c5e77cf3b7e9" title="старший викладач Шибецький Владислав Юрійович">ст.вик. Шибецький В. Ю.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">168-04 Прак</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів._(29302930)" title="Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.">Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6" title="старший викладач Козар Марина Юріївна">ст.вик. Козар М. Ю.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">182/4-04 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Біотехнологія рослин._(29302930)" title="Біотехнологія рослин.">Біотехнологія рослин.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=27080e46-e9d7-4986-a26d-ac9e6fd66739" title="доцент Моргун Богдан Володимирович">доц. Моргун Б. В.</a><br/> Лек</td><td></td><td></td>
+                </tr><tr>
+                    <td>2<br>10:25</td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Проектування біотехнологічних виробництв-2. Основи проектування_(29302920)" title="Проектування біотехнологічних виробництв-2. Основи проектування">Проектування біотехнологічних виробництв-2. Основи проектування</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=ae68aedf-d133-478c-a6b4-4c316e5d294f" title="професор Ружинська Людмила Іванівна">проф. Ружинська Л. І.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">254-04 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Проектування біотехнологічних виробництв-2. Основи проектування_(29302920)" title="Проектування біотехнологічних виробництв-2. Основи проектування">Проектування біотехнологічних виробництв-2. Основи проектування</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=ae68aedf-d133-478c-a6b4-4c316e5d294f" title="професор Ружинська Людмила Іванівна">проф. Ружинська Л. І.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">260-04 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів._(29302930)" title="Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.">Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6" title="старший викладач Козар Марина Юріївна">ст.вик. Козар М. Ю.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">182/4-04 Лаб</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Біотехнологія рослин._(29302930)" title="Біотехнологія рослин.">Біотехнологія рослин.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=27080e46-e9d7-4986-a26d-ac9e6fd66739" title="доцент Моргун Богдан Володимирович">доц. Моргун Б. В.</a><br/> Лаб</td><td></td><td></td>
+                </tr><tr>
+                    <td>3<br>12:20</td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів._(29302930)" title="Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.">Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6" title="старший викладач Козар Марина Юріївна">ст.вик. Козар М. Ю.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">182/4-04 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів._(29302930)" title="Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.">Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6" title="старший викладач Козар Марина Юріївна">ст.вик. Козар М. Ю.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">260-04 Прак</a></td><td></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Біотехнологія рослин._(29302930)" title="Біотехнологія рослин.">Біотехнологія рослин.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=27080e46-e9d7-4986-a26d-ac9e6fd66739" title="доцент Моргун Богдан Володимирович">доц. Моргун Б. В.</a><br/> Прак</td><td></td><td></td>
+                </tr><tr>
+                    <td>4<br>14:15</td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr><tr>
+                    <td>5<br>16:10</td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr><tr>
+                    <td>6<br>18:30</td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                </table>
+                <br />
+            </div>
+            <div>
+                <h3>
+                    Другий тиждень</h3>
+                <table id="ctl00_MainContent_SecondScheduleTable" class="table table-bordered table-hover" cellpadding="10" rules="all" align="center" border="1">
+                    <tr>
+                        <td></td><td>Понеділок</td><td>Вівторок</td><td>Середа</td><td>Четвер</td><td>П'ятниця</td><td>Субота</td>
+                    </tr><tr>
+                    <td>1<br>08:30</td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Проектування біотехнологічних виробництв-2. Основи проектування_(29302920)" title="Проектування біотехнологічних виробництв-2. Основи проектування">Проектування біотехнологічних виробництв-2. Основи проектування</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=645d5195-8295-4cf9-9cfe-c5e77cf3b7e9" title="старший викладач Шибецький Владислав Юрійович">ст.вик. Шибецький В. Ю.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">260-04 Прак</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Проектування біотехнологічних виробництв-2. Основи проектування_(29302920)" title="Проектування біотехнологічних виробництв-2. Основи проектування">Проектування біотехнологічних виробництв-2. Основи проектування</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=645d5195-8295-4cf9-9cfe-c5e77cf3b7e9" title="старший викладач Шибецький Владислав Юрійович">ст.вик. Шибецький В. Ю.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">168-04 Прак</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів._(29302930)" title="Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.">Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6" title="старший викладач Козар Марина Юріївна">ст.вик. Козар М. Ю.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">182/4-04 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Біотехнологія рослин._(29302930)" title="Біотехнологія рослин.">Біотехнологія рослин.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=27080e46-e9d7-4986-a26d-ac9e6fd66739" title="доцент Моргун Богдан Володимирович">доц. Моргун Б. В.</a><br/> Лек</td><td></td><td></td>
+                </tr><tr>
+                    <td>2<br>10:25</td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Проектування біотехнологічних виробництв-2. Основи проектування_(29302920)" title="Проектування біотехнологічних виробництв-2. Основи проектування">Проектування біотехнологічних виробництв-2. Основи проектування</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=ae68aedf-d133-478c-a6b4-4c316e5d294f" title="професор Ружинська Людмила Іванівна">проф. Ружинська Л. І.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">254-04 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Проектування біотехнологічних виробництв-2. Основи проектування_(29302920)" title="Проектування біотехнологічних виробництв-2. Основи проектування">Проектування біотехнологічних виробництв-2. Основи проектування</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=ae68aedf-d133-478c-a6b4-4c316e5d294f" title="професор Ружинська Людмила Іванівна">проф. Ружинська Л. І.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">260-04 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів._(29302930)" title="Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.">Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6" title="старший викладач Козар Марина Юріївна">ст.вик. Козар М. Ю.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">182/4-04 Лаб</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Біотехнологія рослин._(29302930)" title="Біотехнологія рослин.">Біотехнологія рослин.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=27080e46-e9d7-4986-a26d-ac9e6fd66739" title="доцент Моргун Богдан Володимирович">доц. Моргун Б. В.</a><br/> Лаб</td><td></td><td></td>
+                </tr><tr>
+                    <td>3<br>12:20</td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів._(29302930)" title="Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.">Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6" title="старший викладач Козар Марина Юріївна">ст.вик. Козар М. Ю.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.450681,30.455048">182/4-04 Лек</a></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів._(29302930)" title="Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.">Переробка біомаси та відходів 3.Біотехнології переробки промислових відходів.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=984296b1-1414-4b67-81bb-bcff8da222f6" title="старший викладач Козар Марина Юріївна">ст.вик. Козар М. Ю.</a><br/><a class="plainLink" href="http://maps.google.com?q=50.4480855,30.4585595">513-19 Прак</a></td><td></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Біотехнологія рослин._(29302930)" title="Біотехнологія рослин.">Біотехнологія рослин.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=27080e46-e9d7-4986-a26d-ac9e6fd66739" title="доцент Моргун Богдан Володимирович">доц. Моргун Б. В.</a><br/> Прак</td><td></td><td></td>
+                </tr><tr>
+                    <td>4<br>14:15</td><td></td><td></td><td></td><td><span class="disLabel"><a class="plainLink" href="http://wiki.kpi.ua/index.php/Біотехнологія рослин._(29302930)" title="Біотехнологія рослин.">Біотехнологія рослин.</a></span><br/><a class="plainLink" href="/Schedules/ViewSchedule.aspx?v=27080e46-e9d7-4986-a26d-ac9e6fd66739" title="доцент Моргун Богдан Володимирович">доц. Моргун Б. В.</a><br/> Прак</td><td></td><td></td>
+                </tr><tr>
+                    <td>5<br>16:10</td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr><tr>
+                    <td>6<br>18:30</td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+                </table>
+                <br />
+            </div>
+            <select name="ctl00$MainContent$ddlSemesterType" onchange="setTimeout('__doPostBack(\'ctl00$MainContent$ddlSemesterType\',\'\')', 0)" id="ctl00_MainContent_ddlSemesterType" style="float:right;">
+                <option value="1">Перший семестр</option>
+                <option selected="selected" value="2">Другий семестр</option>
+
+            </select>
+
+        </div>
+
+        <div>
+            <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAEAAAD/////AQAAAAAAAAAPAQAAAAYAAAAIsA3rWl3AM+6E94I5ke7WZqDu1maj7tZmCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANHrMjv+SgBPzHBtjjqRRz+JnJtO" />
+        </div>
+
+        <script type="text/javascript">//<![CDATA[
+        (function() {var fn = function() {$get("ctl00_ToolkitScriptManager_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.initialize();
+        //]]></script>
+    </form>
+</div>
+</body>
+</html>

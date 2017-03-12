@@ -1,0 +1,912 @@
+[
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 2,
+        "lesson_name": "Мережні технології-2. Інтернет технології",
+        "lesson_full_name": "Мережні технології-2. Інтернет технології",
+        "lesson_room": "307-18",
+        "lesson_type": "Лек",
+        "teacher_name": "доц. Роковий О. П.",
+        "lesson_week": 1,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "307-18 Лек",
+        "teachers": [
+            {
+                "teacher_name": "доцент Роковий Олександр Петрович",
+                "teacher_full_name_lesson": "доцент Роковий Олександр Петрович",
+                "teacher_short_name_lesson": "доц. Роковий О. П.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=861f46ec-fe2f-42d2-a67c-b27294161814"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "307-18",
+                "room_latitude": "50.447021",
+                "room_longitude": "30.456021",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 2,
+        "lesson_name": "Технології графічнрго процесінгу",
+        "lesson_full_name": "Технології графічнрго процесінгу",
+        "lesson_room": "5-13",
+        "lesson_type": "Лек",
+        "teacher_name": "проф. Гордієнко Ю. Г.",
+        "lesson_week": 1,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "5-13 Лек",
+        "teachers": [
+            {
+                "teacher_name": "професор Гордієнко Юрій Григорович",
+                "teacher_full_name_lesson": "професор Гордієнко Юрій Григорович",
+                "teacher_short_name_lesson": "проф. Гордієнко Ю. Г.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=e7dcb933-3b60-4568-81a7-9d52e4902434"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "5-13",
+                "room_latitude": "50.447853",
+                "room_longitude": "30.455563",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 2,
+        "lesson_name": "Цивільний захист",
+        "lesson_full_name": "Цивільний захист",
+        "lesson_room": "227-18",
+        "lesson_type": "Прак",
+        "teacher_name": "ст.вик. Пятова А. В.",
+        "lesson_week": 1,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "227-18 Прак",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Пятова Анжела Вячеславівна",
+                "teacher_full_name_lesson": "старший викладач Пятова Анжела Вячеславівна",
+                "teacher_short_name_lesson": "ст.вик. Пятова А. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=ecfdf8e7-1132-4a23-a0dd-a7fbb83c2639"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "227-18",
+                "room_latitude": "50.447021",
+                "room_longitude": "30.456021",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 5,
+        "day_name": "П’ятниця",
+        "lesson_number": 2,
+        "lesson_name": "Патентознавство та інтелектуальна власність",
+        "lesson_full_name": "Патентознавство та інтелектуальна власність",
+        "lesson_room": "344-19",
+        "lesson_type": "Лек",
+        "teacher_name": "доц. Самойленко О. В.",
+        "lesson_week": 1,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "344-19 Лек",
+        "teachers": [
+            {
+                "teacher_name": "доцент Самойленко Олексій Васильович",
+                "teacher_full_name_lesson": "доцент Самойленко Олексій Васильович",
+                "teacher_short_name_lesson": "доц. Самойленко О. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=b54100ac-6ead-4ff0-9831-f6eeb4c558d0"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "344-19",
+                "room_latitude": "50.4480855",
+                "room_longitude": "30.4585595",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 3,
+        "lesson_name": "Мережні технології-2. Інтернет технології",
+        "lesson_full_name": "Мережні технології-2. Інтернет технології",
+        "lesson_room": "538-18",
+        "lesson_type": "Лаб",
+        "teacher_name": "доц. Роковий О. П.",
+        "lesson_week": 1,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "538-18 Лаб",
+        "teachers": [
+            {
+                "teacher_name": "доцент Роковий Олександр Петрович",
+                "teacher_full_name_lesson": "доцент Роковий Олександр Петрович",
+                "teacher_short_name_lesson": "доц. Роковий О. П.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=861f46ec-fe2f-42d2-a67c-b27294161814"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "538-18",
+                "room_latitude": "50.447021",
+                "room_longitude": "30.456021",
+                "lesson_type": "Лаб",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 3,
+        "lesson_name": "Іншомовне наукове спілкування",
+        "lesson_full_name": "Практикум з іншомовного професійного спілкування-1. Іншомовне наукове спілкування",
+        "lesson_room": "519-07",
+        "lesson_type": "Прак",
+        "teacher_name": "вик. Бондаренко О. І.",
+        "lesson_week": 1,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "519-07 Прак",
+        "teachers": [
+            {
+                "teacher_name": "викладач Бондаренко Олександра Ігорівна",
+                "teacher_full_name_lesson": "викладач Бондаренко Олександра Ігорівна",
+                "teacher_short_name_lesson": "вик. Бондаренко О. І.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=56f07230-24c7-4819-8f25-eef36aa5cb4e"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "519-07",
+                "room_latitude": "50.448603",
+                "room_longitude": "30.457019",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 3,
+        "lesson_name": "Мультипарадигмове програмування",
+        "lesson_full_name": "Мультипарадигмове програмування",
+        "lesson_room": "5-13",
+        "lesson_type": "Лек",
+        "teacher_name": "проф. Стіренко С. Г.",
+        "lesson_week": 1,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "5-13 Лек",
+        "teachers": [
+            {
+                "teacher_name": "професор Стіренко Сергій Григорович",
+                "teacher_full_name_lesson": "професор Стіренко Сергій Григорович",
+                "teacher_short_name_lesson": "проф. Стіренко С. Г.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=93d51188-96e3-4c52-a9c6-264d48871bea"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "5-13",
+                "room_latitude": "50.447853",
+                "room_longitude": "30.455563",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 3,
+        "lesson_name": "Мультипарадигмове програмування",
+        "lesson_full_name": "Мультипарадигмове програмування",
+        "lesson_room": "5-13",
+        "lesson_type": "Лаб",
+        "teacher_name": "ас. Бистров В. В.",
+        "lesson_week": 1,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "5-13 Лаб",
+        "teachers": [
+            {
+                "teacher_name": "асистент Бистров Віктор Вікторович",
+                "teacher_full_name_lesson": "асистент Бистров Віктор Вікторович",
+                "teacher_short_name_lesson": "ас. Бистров В. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=1694a9c1-d863-4cfd-93d7-5ec80f47d17f"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "5-13",
+                "room_latitude": "50.447853",
+                "room_longitude": "30.455563",
+                "lesson_type": "Лаб",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 5,
+        "day_name": "П’ятниця",
+        "lesson_number": 3,
+        "lesson_name": "Іноваційний менеджмент, менеджмент стартап-проектів",
+        "lesson_full_name": "Іноваційний менеджмент, менеджмент стартап-проектів",
+        "lesson_room": "710-22",
+        "lesson_type": "Лек",
+        "teacher_name": "доц. Кравченко М. О.",
+        "lesson_week": 1,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "710-22 Лек",
+        "teachers": [
+            {
+                "teacher_name": "доцент Кравченко Марина Олегівна",
+                "teacher_full_name_lesson": "доцент Кравченко Марина Олегівна",
+                "teacher_short_name_lesson": "доц. Кравченко М. О.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=c1bd8025-1627-463d-a915-8f508f5333ff"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "710-22",
+                "room_latitude": "50.4459415",
+                "room_longitude": "30.4547315",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 4,
+        "lesson_name": "Технології графічнрго процесінгу",
+        "lesson_full_name": "Технології графічнрго процесінгу",
+        "lesson_room": "5-13",
+        "lesson_type": "Лаб",
+        "teacher_name": "проф. Гордієнко Ю. Г.",
+        "lesson_week": 1,
+        "time_start": "14:15",
+        "time_end": "15:50",
+        "rate": 1,
+        "lesson_room_type": "5-13 Лаб",
+        "teachers": [
+            {
+                "teacher_name": "професор Гордієнко Юрій Григорович",
+                "teacher_full_name_lesson": "професор Гордієнко Юрій Григорович",
+                "teacher_short_name_lesson": "проф. Гордієнко Ю. Г.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=e7dcb933-3b60-4568-81a7-9d52e4902434"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "5-13",
+                "room_latitude": "50.447853",
+                "room_longitude": "30.455563",
+                "lesson_type": "Лаб",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 4,
+        "lesson_name": "Керування процесами життєвого циклу ПЗ",
+        "lesson_full_name": "Керування процесами життєвого циклу ПЗ",
+        "lesson_room": "209а-18",
+        "lesson_type": "Лек",
+        "teacher_name": "доц. Павлов В. Г.",
+        "lesson_week": 1,
+        "time_start": "14:15",
+        "time_end": "15:50",
+        "rate": 1,
+        "lesson_room_type": "209а-18 Лек",
+        "teachers": [
+            {
+                "teacher_name": "доцент Павлов Валерій Георгієвич",
+                "teacher_full_name_lesson": "доцент Павлов Валерій Георгієвич",
+                "teacher_short_name_lesson": "доц. Павлов В. Г.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=ed6b93e5-9273-4a1a-b54d-b2bb37bc3970"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "209а-18",
+                "room_latitude": "50.447021",
+                "room_longitude": "30.456021",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 5,
+        "lesson_name": "Програмне забезпечення комп'ютерних систем-2",
+        "lesson_full_name": "Програмне забезпечення комп'ютерних систем-2. Планування обчислень",
+        "lesson_room": "538-18",
+        "lesson_type": "Лаб",
+        "teacher_name": "доц. Русанова О. В.",
+        "lesson_week": 1,
+        "time_start": "16:10",
+        "time_end": "17:45",
+        "rate": 1,
+        "lesson_room_type": "538-18 Лаб",
+        "teachers": [
+            {
+                "teacher_name": "доцент Русанова Ольга Веніаминівна",
+                "teacher_full_name_lesson": "доцент Русанова Ольга Веніаминівна",
+                "teacher_short_name_lesson": "доц. Русанова О. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=e9faaa5d-bed1-419b-bfab-1c6488a17cf2"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "538-18",
+                "room_latitude": "50.447021",
+                "room_longitude": "30.456021",
+                "lesson_type": "Лаб",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 1,
+        "lesson_name": "Іноваційний менеджмент, менеджмент стартап-проектів",
+        "lesson_full_name": "Іноваційний менеджмент, менеджмент стартап-проектів",
+        "lesson_room": "203-18",
+        "lesson_type": "Прак",
+        "teacher_name": "ас. Копішинська К. О.",
+        "lesson_week": 2,
+        "time_start": "08:30",
+        "time_end": "10:05",
+        "rate": 1,
+        "lesson_room_type": "203-18 Прак",
+        "teachers": [
+            {
+                "teacher_name": "асистент Копішинська Катерина Олександрівна",
+                "teacher_full_name_lesson": "асистент Копішинська Катерина Олександрівна",
+                "teacher_short_name_lesson": "ас. Копішинська К. О.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=b64ab801-5e06-40fc-bb0c-102e3cf711fc"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "203-18",
+                "room_latitude": "50.447021",
+                "room_longitude": "30.456021",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 2,
+        "lesson_name": "Мережні технології-2. Інтернет технології",
+        "lesson_full_name": "Мережні технології-2. Інтернет технології",
+        "lesson_room": "307-18",
+        "lesson_type": "Лек",
+        "teacher_name": "доц. Роковий О. П.",
+        "lesson_week": 2,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "307-18 Лек",
+        "teachers": [
+            {
+                "teacher_name": "доцент Роковий Олександр Петрович",
+                "teacher_full_name_lesson": "доцент Роковий Олександр Петрович",
+                "teacher_short_name_lesson": "доц. Роковий О. П.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=861f46ec-fe2f-42d2-a67c-b27294161814"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "307-18",
+                "room_latitude": "50.447021",
+                "room_longitude": "30.456021",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 2,
+        "lesson_name": "Технології графічнрго процесінгу",
+        "lesson_full_name": "Технології графічнрго процесінгу",
+        "lesson_room": "5-13",
+        "lesson_type": "Лек",
+        "teacher_name": "проф. Гордієнко Ю. Г.",
+        "lesson_week": 2,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "5-13 Лек",
+        "teachers": [
+            {
+                "teacher_name": "професор Гордієнко Юрій Григорович",
+                "teacher_full_name_lesson": "професор Гордієнко Юрій Григорович",
+                "teacher_short_name_lesson": "проф. Гордієнко Ю. Г.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=e7dcb933-3b60-4568-81a7-9d52e4902434"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "5-13",
+                "room_latitude": "50.447853",
+                "room_longitude": "30.455563",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 5,
+        "day_name": "П’ятниця",
+        "lesson_number": 2,
+        "lesson_name": "Патентознавство та інтелектуальна власність",
+        "lesson_full_name": "Патентознавство та інтелектуальна власність",
+        "lesson_room": "344-19",
+        "lesson_type": "Лек",
+        "teacher_name": "доц. Самойленко О. В.",
+        "lesson_week": 2,
+        "time_start": "10:25",
+        "time_end": "12:00",
+        "rate": 1,
+        "lesson_room_type": "344-19 Лек",
+        "teachers": [
+            {
+                "teacher_name": "доцент Самойленко Олексій Васильович",
+                "teacher_full_name_lesson": "доцент Самойленко Олексій Васильович",
+                "teacher_short_name_lesson": "доц. Самойленко О. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=b54100ac-6ead-4ff0-9831-f6eeb4c558d0"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "344-19",
+                "room_latitude": "50.4480855",
+                "room_longitude": "30.4585595",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 3,
+        "lesson_name": "Керування процесами життєвого циклу ПЗ",
+        "lesson_full_name": "Керування процесами життєвого циклу ПЗ",
+        "lesson_room": "509-18",
+        "lesson_type": "Лаб",
+        "teacher_name": "ст.вик. Кузнєцов О. В.",
+        "lesson_week": 2,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "509-18 Лаб",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Кузнєцов Олександр Вікторович",
+                "teacher_full_name_lesson": "старший викладач Кузнєцов Олександр Вікторович",
+                "teacher_short_name_lesson": "ст.вик. Кузнєцов О. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=e6364998-f635-4c98-a2b7-716c3c59f78b"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "509-18",
+                "room_latitude": "50.447021",
+                "room_longitude": "30.456021",
+                "lesson_type": "Лаб",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 3,
+        "lesson_name": "Іншомовне наукове спілкування",
+        "lesson_full_name": "Практикум з іншомовного професійного спілкування-1. Іншомовне наукове спілкування",
+        "lesson_room": "519-07",
+        "lesson_type": "Прак",
+        "teacher_name": "вик. Бондаренко О. І.",
+        "lesson_week": 2,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "519-07 Прак",
+        "teachers": [
+            {
+                "teacher_name": "викладач Бондаренко Олександра Ігорівна",
+                "teacher_full_name_lesson": "викладач Бондаренко Олександра Ігорівна",
+                "teacher_short_name_lesson": "вик. Бондаренко О. І.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=56f07230-24c7-4819-8f25-eef36aa5cb4e"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "519-07",
+                "room_latitude": "50.448603",
+                "room_longitude": "30.457019",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 3,
+        "lesson_name": "Мультипарадигмове програмування",
+        "lesson_full_name": "Мультипарадигмове програмування",
+        "lesson_room": "5-13",
+        "lesson_type": "Лек",
+        "teacher_name": "проф. Стіренко С. Г.",
+        "lesson_week": 2,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "5-13 Лек",
+        "teachers": [
+            {
+                "teacher_name": "професор Стіренко Сергій Григорович",
+                "teacher_full_name_lesson": "професор Стіренко Сергій Григорович",
+                "teacher_short_name_lesson": "проф. Стіренко С. Г.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=93d51188-96e3-4c52-a9c6-264d48871bea"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "5-13",
+                "room_latitude": "50.447853",
+                "room_longitude": "30.455563",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 3,
+        "lesson_name": "Мультипарадигмове програмування",
+        "lesson_full_name": "Мультипарадигмове програмування",
+        "lesson_room": "5-13",
+        "lesson_type": "Лаб",
+        "teacher_name": "ас. Бистров В. В.",
+        "lesson_week": 2,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 1,
+        "lesson_room_type": "5-13 Лаб",
+        "teachers": [
+            {
+                "teacher_name": "асистент Бистров Віктор Вікторович",
+                "teacher_full_name_lesson": "асистент Бистров Віктор Вікторович",
+                "teacher_short_name_lesson": "ас. Бистров В. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=1694a9c1-d863-4cfd-93d7-5ec80f47d17f"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "5-13",
+                "room_latitude": "50.447853",
+                "room_longitude": "30.455563",
+                "lesson_type": "Лаб",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 5,
+        "day_name": "П’ятниця",
+        "lesson_number": 3,
+        "lesson_name": "Цивільний захист",
+        "lesson_full_name": "Цивільний захист",
+        "lesson_room": "710-22",
+        "lesson_type": "Лек",
+        "teacher_name": "ст.вик. Пятова А. В.",
+        "lesson_week": 2,
+        "time_start": "12:20",
+        "time_end": "13:55",
+        "rate": 0.6,
+        "lesson_room_type": "710-22 0,6 Лек",
+        "teachers": [
+            {
+                "teacher_name": "старший викладач Пятова Анжела Вячеславівна",
+                "teacher_full_name_lesson": "старший викладач Пятова Анжела Вячеславівна",
+                "teacher_short_name_lesson": "ст.вик. Пятова А. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=ecfdf8e7-1132-4a23-a0dd-a7fbb83c2639"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "710-22",
+                "room_latitude": "50.4459415",
+                "room_longitude": "30.4547315",
+                "lesson_type": "Лек",
+                "lesson_rate": 0.6
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 1,
+        "day_name": "Понеділок",
+        "lesson_number": 4,
+        "lesson_name": "Технології графічнрго процесінгу",
+        "lesson_full_name": "Технології графічнрго процесінгу",
+        "lesson_room": "5-13",
+        "lesson_type": "Лаб",
+        "teacher_name": "проф. Гордієнко Ю. Г.",
+        "lesson_week": 2,
+        "time_start": "14:15",
+        "time_end": "15:50",
+        "rate": 1,
+        "lesson_room_type": "5-13 Лаб",
+        "teachers": [
+            {
+                "teacher_name": "професор Гордієнко Юрій Григорович",
+                "teacher_full_name_lesson": "професор Гордієнко Юрій Григорович",
+                "teacher_short_name_lesson": "проф. Гордієнко Ю. Г.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=e7dcb933-3b60-4568-81a7-9d52e4902434"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "5-13",
+                "room_latitude": "50.447853",
+                "room_longitude": "30.455563",
+                "lesson_type": "Лаб",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 4,
+        "lesson_name": "Керування процесами життєвого циклу ПЗ",
+        "lesson_full_name": "Керування процесами життєвого циклу ПЗ",
+        "lesson_room": "209а-18",
+        "lesson_type": "Лек",
+        "teacher_name": "доц. Павлов В. Г.",
+        "lesson_week": 2,
+        "time_start": "14:15",
+        "time_end": "15:50",
+        "rate": 1,
+        "lesson_room_type": "209а-18 Лек",
+        "teachers": [
+            {
+                "teacher_name": "доцент Павлов Валерій Георгієвич",
+                "teacher_full_name_lesson": "доцент Павлов Валерій Георгієвич",
+                "teacher_short_name_lesson": "доц. Павлов В. Г.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=ed6b93e5-9273-4a1a-b54d-b2bb37bc3970"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "209а-18",
+                "room_latitude": "50.447021",
+                "room_longitude": "30.456021",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 3,
+        "day_name": "Середа",
+        "lesson_number": 4,
+        "lesson_name": "Патентознавство та інтелектуальна власність",
+        "lesson_full_name": "Патентознавство та інтелектуальна власність",
+        "lesson_room": "512-18",
+        "lesson_type": "Прак",
+        "teacher_name": "доц. Самойленко О. В.",
+        "lesson_week": 2,
+        "time_start": "14:15",
+        "time_end": "15:50",
+        "rate": 1,
+        "lesson_room_type": "512-18 Прак",
+        "teachers": [
+            {
+                "teacher_name": "доцент Самойленко Олексій Васильович",
+                "teacher_full_name_lesson": "доцент Самойленко Олексій Васильович",
+                "teacher_short_name_lesson": "доц. Самойленко О. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=b54100ac-6ead-4ff0-9831-f6eeb4c558d0"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "512-18",
+                "room_latitude": "50.447021",
+                "room_longitude": "30.456021",
+                "lesson_type": "Прак",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 2,
+        "day_name": "Вівторок",
+        "lesson_number": 5,
+        "lesson_name": "Програмне забезпечення комп'ютерних систем-2",
+        "lesson_full_name": "Програмне забезпечення комп'ютерних систем-2. Планування обчислень",
+        "lesson_room": "538-18",
+        "lesson_type": "Лаб",
+        "teacher_name": "доц. Русанова О. В.",
+        "lesson_week": 2,
+        "time_start": "16:10",
+        "time_end": "17:45",
+        "rate": 1,
+        "lesson_room_type": "538-18 Лаб",
+        "teachers": [
+            {
+                "teacher_name": "доцент Русанова Ольга Веніаминівна",
+                "teacher_full_name_lesson": "доцент Русанова Ольга Веніаминівна",
+                "teacher_short_name_lesson": "доц. Русанова О. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=e9faaa5d-bed1-419b-bfab-1c6488a17cf2"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "538-18",
+                "room_latitude": "50.447021",
+                "room_longitude": "30.456021",
+                "lesson_type": "Лаб",
+                "lesson_rate": 1
+            }
+        ]
+    },
+    {
+        "lesson_id": null,
+        "group_id": null,
+        "group_url": null,
+        "day_number": 4,
+        "day_name": "Четвер",
+        "lesson_number": 5,
+        "lesson_name": "Програмне забезпечення комп'ютерних систем-2",
+        "lesson_full_name": "Програмне забезпечення комп'ютерних систем-2. Планування обчислень",
+        "lesson_room": "307-18",
+        "lesson_type": "Лек",
+        "teacher_name": "доц. Русанова О. В.",
+        "lesson_week": 2,
+        "time_start": "16:10",
+        "time_end": "17:45",
+        "rate": 1,
+        "lesson_room_type": "307-18 Лек",
+        "teachers": [
+            {
+                "teacher_name": "доцент Русанова Ольга Веніаминівна",
+                "teacher_full_name_lesson": "доцент Русанова Ольга Веніаминівна",
+                "teacher_short_name_lesson": "доц. Русанова О. В.",
+                "teacher_url": "http:\/\/rozklad.kpi.ua\/Schedules\/ViewSchedule.aspx?v=e9faaa5d-bed1-419b-bfab-1c6488a17cf2"
+            }
+        ],
+        "rooms": [
+            {
+                "room_name": "307-18",
+                "room_latitude": "50.447021",
+                "room_longitude": "30.456021",
+                "lesson_type": "Лек",
+                "lesson_rate": 1
+            }
+        ]
+    }
+]
