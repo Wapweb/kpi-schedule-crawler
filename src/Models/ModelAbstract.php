@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: alex
- * Date: 3/11/2017
- * Time: 6:34 PM
- */
-
 namespace Wapweb\KpiScheduleCrawler\Models;
 
 

@@ -1,5 +1,4 @@
 <?php
-
 namespace Wapweb\KpiScheduleCrawler\Models;
 
 /**
