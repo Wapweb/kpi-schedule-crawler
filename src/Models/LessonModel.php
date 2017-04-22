@@ -164,7 +164,7 @@ class LessonModel extends ModelAbstract
         return $this->_lessonName;
     }
 
-    public function setLessonName(string $_lessonName): self
+    public function setLessonName(?string $_lessonName): self
     {
         $this->_lessonName = $_lessonName;
         return $this;
@@ -175,7 +175,7 @@ class LessonModel extends ModelAbstract
         return $this->_lessonFullName;
     }
 
-    public function setLessonFullName(string $_lessonFullName): self
+    public function setLessonFullName(?string $_lessonFullName): self
     {
         $this->_lessonFullName = $_lessonFullName;
         return $this;
@@ -186,7 +186,7 @@ class LessonModel extends ModelAbstract
         return $this->_lessonRoom;
     }
 
-    public function setLessonRoom(string $_lessonRoom): self
+    public function setLessonRoom(?string $_lessonRoom): self
     {
         $this->_lessonRoom = $_lessonRoom;
         return $this;
@@ -197,7 +197,7 @@ class LessonModel extends ModelAbstract
         return $this->_lessonType;
     }
 
-    public function setLessonType(string $_lessonType): self
+    public function setLessonType(?string $_lessonType): self
     {
         $this->_lessonType = $_lessonType;
         return $this;
@@ -208,7 +208,7 @@ class LessonModel extends ModelAbstract
         return $this->_teacherName;
     }
 
-    public function setTeacherName(string $_teacherName): self
+    public function setTeacherName(?string $_teacherName): self
     {
         $this->_teacherName = $_teacherName;
         return $this;
@@ -247,12 +247,12 @@ class LessonModel extends ModelAbstract
         return $this;
     }
 
-    public function getRate():?float
+    public function getRate()
     {
         return $this->_rate;
     }
 
-    public function setRate(float $_rate): self
+    public function setRate($_rate): self
     {
         $this->_rate = $_rate;
         return $this;
@@ -308,7 +308,7 @@ class LessonModel extends ModelAbstract
         return $this->_lessonId;
     }
 
-    public function setLessonId(int $lessonId): self
+    public function setLessonId(?int $lessonId): self
     {
         $this->_lessonId = $lessonId;
         return $this;
