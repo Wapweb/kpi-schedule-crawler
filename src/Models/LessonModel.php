@@ -90,12 +90,12 @@ class LessonModel extends ModelAbstract
     /**
      * @var array
      */
-    protected $teachers = [];
+    protected $_teachers = [];
 
     /**
      * @var array
      */
-    protected $rooms = [];
+    protected $_rooms = [];
 
     public function getGroupId(): ?int
     {
@@ -264,35 +264,35 @@ class LessonModel extends ModelAbstract
 
     public function getTeachers(): array
     {
-        return $this->teachers;
+        return $this->_teachers;
     }
 
     public function addTeacher(array $teacher): self
     {
-        $this->teachers[] = $teacher;
+        $this->_teachers[] = $teacher;
         return $this;
     }
 
-    public function setTeachers(array $teachers): self
+    public function setTeachers(array $_teachers): self
     {
-        $this->teachers = $teachers;
+        $this->_teachers = $_teachers;
         return $this;
     }
 
     public function getRooms(): array
     {
-        return $this->rooms;
+        return $this->_rooms;
     }
 
     public function addRoom(array $room): self
     {
-        $this->rooms[] = $room;
+        $this->_rooms[] = $room;
         return $this;
     }
 
-    public function setRooms(array $rooms): self
+    public function setRooms(array $_rooms): self
     {
-        $this->rooms = $rooms;
+        $this->_rooms = $_rooms;
         return $this;
     }
 

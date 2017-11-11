@@ -11,6 +11,8 @@ use Wapweb\KpiScheduleCrawler\Models\LessonModel;
  */
 class GroupScheduleCrawler implements CrawlerInterface
 {
+    use RoomParserTrait;
+
     private const DELIMITER = '@';
 
     private const LESSONS_SCHEDULE = [
@@ -123,44 +125,19 @@ class GroupScheduleCrawler implements CrawlerInterface
                             ]);
                         } else if (preg_match('`(.*?)maps\.google\.com(.*?)`ui', $linkUrl)) {
                             // room, lesson type
-                            $lessonRoom = "";
-                            $lessonType = "";
-                            $rate = 1;
-                            $string = trim($link->textContent);
-                            if (!empty($string)) {
-                                $string = str_replace(['янг.-Пол.', 'янг-Пол.', '000-Пол.', '-Пол.'], '', $string);
-                                $string = preg_replace('/\s+/u', ' ', $string);
-                                $string = trim(trim($string, ','));
+                            $roomData = $this->_parseRoom($link->textContent, $linkUrl);
 
-                                preg_match('`[\dA-zА-Юа-ю]+-(\d)+`iu', $string, $roomMatches);
-                                preg_match('`\d[\.|,]\d`u', $string, $rateMatches);
-                                preg_match('`Лек|Прак|Лаб|Конс`iu', $string, $typeMatches);
-                                if (isset($roomMatches[0])) {
-                                    $lessonRoom = $roomMatches[0];
-                                }
-                                if (isset($rateMatches[0])) {
-                                    $rate = (float)str_replace(',', '.', $rateMatches[0]);
-                                }
-                                if (isset($typeMatches[0])) {
-                                    $lessonType = $typeMatches[0];
-                                }
-                            }
+                            $lessonModel->setLessonRoom(!$lessonModel->getLessonRoom() ? $roomData['lesson_room'] : $lessonModel->getLessonRoom() . ',' . $roomData['lesson_room']);
+                            $lessonModel->setLessonType(!$lessonModel->getLessonType() ? $roomData['lesson_type'] : $lessonModel->getLessonType() . ',' . $roomData['lesson_type']);
+                            $lessonModel->setRate(!$lessonModel->getRate() ? $roomData['lesson_rate'] : $lessonModel->getRate() . ',' . $roomData['lesson_rate']);
 
-                            $lessonModel->setLessonRoom(!$lessonModel->getLessonRoom() ? $lessonRoom : $lessonModel->getLessonRoom() . ',' . $lessonRoom);
-                            $lessonModel->setLessonType(!$lessonModel->getLessonType() ? $lessonType : $lessonModel->getLessonType() . ',' . $lessonType);
-                            $lessonModel->setRate(!$lessonModel->getRate() ? $rate : $lessonModel->getRate() . ',' . $rate);
-
-                            //parse room latitude and longitude
-                            $query = parse_url($linkUrl, PHP_URL_QUERY);
-                            if ($query) {
-                                $query = str_replace('q=', '', $query);
-                                list($roomLatitude, $roomLongitude) = explode(',', $query);
+                            if($roomData['room_latitude'] && $roomData['room_longitude']) {
                                 $lessonModel->addRoom([
-                                    'room_name' => trim(str_replace([',', '.', 'Прак', 'Лек', 'Лаб', 'Конс', ' '], '', preg_replace('`\d[\.|,]\d`', '', $string))),
-                                    'room_latitude' => $roomLatitude,
-                                    'room_longitude' => $roomLongitude,
-                                    'lesson_type' => $lessonType,
-                                    'lesson_rate' => $rate
+                                    'room_name' => $roomData['room_name'],
+                                    'room_latitude' => $roomData['room_latitude'],
+                                    'room_longitude' => $roomData['room_longitude'],
+                                    'lesson_type' => $roomData['lesson_type'],
+                                    'lesson_rate' => $roomData['lesson_rate']
                                 ]);
                             }
                         } else {
